@@ -1,6 +1,6 @@
 # Fake News Detection Using Machine Learning
 
-This repository contains a project aimed at detecting fake news articles using machine learning techniques. The goal of the project is to classify news articles as "Fake" or "Real" based on their content.
+This repository contains a project aimed at detecting fake news articles using machine learning techniques. The project aims to classify news articles as "Fake" or "Real" based on their content.
 
 ---
 
@@ -18,7 +18,7 @@ This repository contains a project aimed at detecting fake news articles using m
 ---
 
 ## Introduction
-Fake news has become a widespread issue in recent years, influencing public opinion and causing misinformation. This project leverages machine learning algorithms to detect fake news effectively, improving the reliability of information sources.
+Fake news has become widespread in recent years, influencing public opinion and causing misinformation. This project leverages machine learning algorithms to detect fake news effectively, improving the reliability of information sources.
 
 ---
 
@@ -34,7 +34,7 @@ The dataset used for this project is publicly available and contains labeled new
 ---
 
 ## Technologies Used
-- **Python**: Core programming language for implementation.
+- **Python**: A core programming language for implementation.
 - **Machine Learning Libraries**: 
   - Scikit-learn
   - Pandas
@@ -47,5 +47,9 @@ The dataset used for this project is publicly available and contains labeled new
   - Seaborn
 
 ---
+## Google Colab
 
-## Project Structure
+You can explore the project interactively on Google Colab:
+
+[![Open in Colab](https://colab.research.google.com/drive/17b-6cN-I9JdfPjE-lwRG0QuVZ1PXOfBX#scrollTo=B1DpbNrS4zU_)
+
