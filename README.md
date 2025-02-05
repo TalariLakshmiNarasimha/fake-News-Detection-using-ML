@@ -51,5 +51,5 @@ The dataset used for this project is publicly available and contains labeled new
 
 You can explore the project interactively on Google Colab:
 
-[![Open in Colab](https://colab.research.google.com/drive/17b-6cN-I9JdfPjE-lwRG0QuVZ1PXOfBX#scrollTo=B1DpbNrS4zU_)
+<a href="https://colab.research.google.com/drive/17b-6cN-I9JdfPjE-lwRG0QuVZ1PXOfBX#scrollTo=B1DpbNrS4zU_">CoLab link</a>
 
